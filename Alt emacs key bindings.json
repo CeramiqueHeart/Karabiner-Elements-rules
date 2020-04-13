@@ -12,6 +12,9 @@
               "mandatory": [
                 "shift",
                 "command"
+              ],
+              "optional": [
+                "caps_lock"
               ]
             }
           },
